@@ -5,9 +5,9 @@
 
 Python / FastAPI / Django
 
-<h3 align="left">Connect with me: [![Telegram](https://img.shields.io/badge/Telegram-inkubuss-blue?style=flat&logo=telegram)](https://t.me/inkubuss)
+<h3 align="left">Connect with me:</h3>
+[![Telegram](https://img.shields.io/badge/Telegram-inkubuss-blue?style=flat&logo=telegram)](https://t.me/inkubuss)
 [![Email](https://img.shields.io/badge/Email-tyuninvlad04@gmail.com-red?style=flat&logo=gmail)](mailto:tyuninvlad04@gmail.com)
-</h3>
 <p align="left">
 </p>
 
