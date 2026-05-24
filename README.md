@@ -1,8 +1,9 @@
 ## 👋
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hello,+world!+I'm+Vlad;I'm+a+backend-developer)](https://git.io/typing-svg)
 
-## ? Технический стек
-- Python, FastAPI, Django
+## 🤔 Stack:
+
+Python / FastAPI / Django
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
