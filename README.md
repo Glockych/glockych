@@ -5,8 +5,13 @@
 
 Python / FastAPI / Django
 
-<h3 align="left">Connect with me:</h3>
+### 🌱 Want to learn:
+- JS/TS
+- React
 
+<h4 align="left">Connect with me:</h4>
+[![Telegram](https://img.shields.io/badge/Telegram-inkubuss-blue?style=flat&logo=telegram)](https://t.me/inkubuss)
+[![Email](https://img.shields.io/tyuninvlad04@gmail.com-red?style=flat&logo=gmail)](mailto:tyuninvlad04@gmail.com)
 <p align="left">
 </p>
 
