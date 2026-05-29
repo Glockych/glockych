@@ -1,5 +1,5 @@
 ## 👋 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hello,+world!+I'm+a+computer-science+student;I'm+a+backend-developer;I+use+arch+btw...)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hello,+world!;I'm+a+backend-developer;I+use+arch+btw...)](https://git.io/typing-svg)
 
 ### 🤔 Stack:
 
