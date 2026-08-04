@@ -32,6 +32,7 @@
 </p>
 
 ---
+
 ### 📈 GitHub статистика
 
 <div align="center">
@@ -43,7 +44,7 @@
 ### 📫 Связаться со мной
 
 <p align="left">
-  <a href="mailto:tyuninvlad04@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=tyuninvlad04@gmail.com&logoColor=white" /></a>
+  <a href="mailto:tyuninvlad04@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://t.me/inkubuss"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" /></a>
 </p>
 ---
