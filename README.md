@@ -1,7 +1,7 @@
 ## 👋 
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hello,+world!;I'm+a+backend-developer;I+use+arch+btw...)](https://git.io/typing-svg)
 
-## 🧠 Обо мне
+### 🧠 About me:
 - ⚡ **Основной стек:** FastAPI, SQLAlchemy 2.0 (async), PostgreSQL, Celery, Redis, Docker.
 - 🔐 Уделяю особое внимание безопасности (JWT, bcrypt, RBAC) и документированию (OpenAPI/Swagger).
 - 📐 Проектирую базы данных с нуля: от ER-диаграмм до нормализации и индексов.
@@ -22,7 +22,8 @@
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
 </p>
 ---
-## 🌱 Хочу изучить
+
+### 🌱 Want to learn:
 
 <p align="left">
   <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
@@ -31,7 +32,7 @@
 </p>
 
 ---
-## 📈 GitHub статистика
+### 📈 GitHub статистика
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="150" />
@@ -39,10 +40,10 @@
 </div>
 
 ---
-## 📫 Связаться со мной
+### 📫 Связаться со мной
 
 <p align="left">
-  <a href="mailto:tyuninvlad04@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="mailto:tyuninvlad04@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=tyuninvlad04@gmail.com&logoColor=white" /></a>
   <a href="https://t.me/inkubuss"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" /></a>
 </p>
 ---
