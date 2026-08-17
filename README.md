@@ -1,5 +1,5 @@
 ## 👋 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hello,+world+I'm+a+backend-developer;I+use+arch+btw...)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hello,+world!+I'm+Vlad;I'm+a+backend-developer;I+use+arch+btw...)](https://git.io/typing-svg)
 
 ### 🧠 About me:
 - ⚡ **Main stack:** FastAPI, SQLAlchemy 2.0 (async), PostgreSQL, Celery, Redis, Docker.
