@@ -2,10 +2,10 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hello,+world!;I'm+a+backend-developer;I+use+arch+btw...)](https://git.io/typing-svg)
 
 ### 🧠 About me:
-- ⚡ **Основной стек:** FastAPI, SQLAlchemy 2.0 (async), PostgreSQL, Celery, Redis, Docker.
-- 🔐 Уделяю особое внимание безопасности (JWT, bcrypt, RBAC) и документированию (OpenAPI/Swagger).
-- 📐 Проектирую базы данных с нуля: от ER-диаграмм до нормализации и индексов.
-- 🚀 Разбираюсь в асинхронном программировании и оптимизации ORM-запросов.
+- ⚡ **Main stack:** FastAPI, SQLAlchemy 2.0 (async), PostgreSQL, Celery, Redis, Docker.
+- 🔐 I pay special attention to security (JWT, bcrypt, RBAC) and documentation (OpenAPI/Swagger).
+- 📐  I design databases from scratch: from ER diagrams to normalization and indexes.
+- 🚀 I have a good understanding of asynchronous programming and ORM query optimization
 ---
 ### 🤔 Stack:
 
@@ -34,7 +34,7 @@
 
 ---
 
-### 📈 GitHub статистика
+### 📈 GitHub statistics
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="150" />
@@ -42,7 +42,7 @@
 </div>
 
 ---
-### 📫 Связаться со мной
+### 📫 Contact me
 
 <p align="left">
   <a href="mailto:tyuninvlad04@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
